@@ -1,6 +1,6 @@
 # SocialMediaApp-MVC
- Social Media App building by using swift,uikit,MVC architecture,Alamofir third library,and views third libraries .
-This app show and display Posts of people,profiles of posts , profile of users ,,log in ,and register pages and more...,let descover it in screenshots and gif.
+ Social Media App building by using Swift, UIKit, MVC architecture, Alamofir third library, and views third libraries.
+This app shows and displays Posts of people, profiles of posts, profiles of users, login, and register pages, comments on posts, edits of his profile, and more..., let's discover it in screenshots and gifs.
 ## Screenshot
  <div align="center">
   <img width="260" alt="Screenshot " src="https://github.com/MohamedAboElsaud/SocialMediaApp-MVC/blob/main/Assets/Simulator%20-%20iPhone%2014%20Pro%20-%202025-01-31%20at%2018.59.20-compressed.jpeg?raw=true">
